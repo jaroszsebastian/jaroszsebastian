@@ -87,7 +87,7 @@
 
 |Skill|Level|
 |:---:|:---:|
-|Google Suite|Advanced|
+|Google Workplace|Advanced|
 |Lucidchart|Advanced|
 |Markdown|Intermediate|
 |Jira|Intermediate|
