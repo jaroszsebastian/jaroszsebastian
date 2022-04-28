@@ -14,7 +14,15 @@
 
 ## Table of contents 
 
-### Traits
+1. [Traits](#traits)
+2. [Interests](#interests)
+3. [Languages](#languages)
+4. [Professional experience](#professional-experience)
+5. [Education](#education)
+6. [Skills](#skills)
+
+## Traits
+
 - Professional
 - Curious
 - Creative
@@ -22,7 +30,9 @@
 - Open-minded
 - Systematic
 
-### Interests
+
+## Interests
+
 - Learning about psychology
 - Making candles and jars of forest
 - Reading true crime books
@@ -30,13 +40,16 @@
 - Comprehending linguistics
 - Learning software development tools
 
-### Languages
+## Languages
+
 - English - Business Proficiency
 - Polish - Native
 
-### Professional experience
-`**Technical Writer  *02.2022 - Present***`
->IBM@Google
+## Professional experience
+
+>**Technical Writer *02.2022 - Present***
+
+`IBM@Google`
 
 - Maintaining existing documentation for different help centers
 - Writing documentation for new projects 
@@ -56,8 +69,9 @@
 - Establishing procedures with the local countries 
 - Preparing reports
 - Calculating finances for packages coming into EU
--
-### Education
+
+## Education
+
 >**B.A. in English Philology *10.2013 - 11.2018***
 
 `Pedagogical University of Cracow`
@@ -69,7 +83,9 @@
 - Comprehending pragmatics
 - Gaining knowledge of language, literature and culture 
 
-|Skills|Level|
+## Skills
+
+|Skill|Level|
 |:---:|:---:|
 |Google Suite|Advanced|
 |Lucidchart|Advanced|
