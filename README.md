@@ -1,14 +1,15 @@
 <table>
 <tr>
-<th>Sebastian Jarosz<br>
-TECHNICAL WRITER
+<th>
+CURRICULUM VITAE
 </th>
 </tr>
 
 <tr>
 <td>
-
-| A | Dedicated technical writer with a background in English philology and a passion for clear and concise communication. <br> Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills. <br> Looking forward to applying Docs-as-Code methodlogy. | 
+Dedicated technical writer with a background in English philology and a passion for clear and concise communication.  Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills. Looking forward to applying Docs-as-Code methodlogy.
+  
+| A | B |
 |--|--|
 | 1 | 2 | 
 
