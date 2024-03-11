@@ -1,51 +1,9 @@
-# Curriculum Vitae
+<h1 align="center"> Curriculum Vitae </h1>
+Dedicated technical writer with a background in English philology and a passion for clear and concise communication. Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills. Looking forward to applying Docs-as-Code methodology.
 
-<table>
-	<tbody>
-		<tr>
-			<td rowspan="2"><img src="https://user-images.githubusercontent.com/104561221/165721512-5251ee83-a616-46bf-a2c7-58ceb5ab7fcb.jpg" style="width: 150px;" alt="My picture"></td>
-			<td align="center"><h3>Sebastian Jarosz</h3></td>
-		</tr>
-		<tr>
-			<td align="center">Technical Writer</td>
-		</tr>
-	</tbody>
-</table>
-
-## Table of contents 
-
-1. [Traits](#traits)
-2. [Interests](#interests)
-3. [Languages](#languages)
-4. [Professional experience](#professional-experience)
-5. [Education](#education)
-6. [Skills](#skills)
-
-## Traits
-
-- Professional
-- Curious
-- Creative
-- Meticulous
-- Open-minded
-- Systematic
-
-
-## Interests
-
-- Learning about psychology
-- Making candles and jars of forest
-- Reading true crime books
-- Baking bread
-- Comprehending linguistics
-- Learning software development tools
-
-## Languages
-
-- English - Business Proficiency
-- Polish - Native
-
-## Professional experience
+<br><table>
+<tr><th><h2 align="center"> PROFESSIONAL EXPPERIENCE </h2></th><th><h2 align="center"> EDUCATION </h2></th></tr>
+<tr><td>
 
 >**Technical Writer *02.2022 - Present***
 
@@ -70,7 +28,7 @@
 - Preparing reports
 - Calculating finances for packages coming into EU
 
-## Education
+</td><td>
 
 >**B.A. in English Philology *10.2013 - 11.2018***
 
@@ -83,14 +41,32 @@
 - Comprehending pragmatics
 - Gaining knowledge of language, literature and culture 
 
-## Skills
+</td></tr> </table>
 
-|Skill|Level|
+<table>
+<tr><th><h2 align="center"> SKILLS </h2></th><th><h2 align="center"> ACHIEVEMENTS </h2></th></tr>
+<tr><td>
+
+
+|Skill|LEVEL|
 |:---:|:---:|
-|Google Workplace|Advanced|
-|Lucidchart|Advanced|
-|Markdown|Intermediate|
-|Jira|Intermediate|
-|HTML/CSS|Basic|
-|XML|Basic|
-|git|basic|
+|Markdown|🟢🟢🟢🟢🟢|
+|Lucidchart|🟢🟢🟢🟢⚫|
+|Google Workspace|🟢🟢🟢🟢⚫|
+|Salesforce|🟢🟢🟢⚫⚫|
+|HTML|🟢🟢🟢⚫⚫|
+|GitHub|🟢🟢🟢⚫⚫|
+|git|🟢🟢⚫⚫⚫|
+|CSS|🟢🟢⚫⚫⚫|
+|draw.io|🟢🟢⚫⚫⚫|
+|Visual Studio Code|🟢⚫⚫⚫⚫|
+|XSLT|🟢⚫⚫⚫⚫|
+
+</td><td>
+<h3 align="center"> PORTFOLIO </h3>
+
+Curriculum Vitae Project
+Soy Candle Manual
+Bookshelf
+
+</td></tr> </table>
