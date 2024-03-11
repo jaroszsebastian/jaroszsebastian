@@ -1,10 +1,10 @@
-<h1 align="center"> Summary </h1>
+<h1 align="center"> PROFESSIONAL SUMMARY </h1>
 Dedicated technical writer with a background in English philology and a passion for clear and concise communication. Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills. Looking forward to applying Docs-as-Code methodology.
 
 <br><table>
     <thead>
         <tr>
-            <th> <h3 align="center"> PROFESSIONAL EXPPERIENCE </h3> </th>
+            <th> <h3 align="center"> EXPERIENCE </h3> </th>
             <th> <h3 align="center"> EDUCATION </h3> </th>
         </tr>
     </thead>
