@@ -1,4 +1,4 @@
-<h1 align="center"> Curriculum Vitae </h1>
+<h1 align="center"> Summary </h1>
 Dedicated technical writer with a background in English philology and a passion for clear and concise communication. Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills. Looking forward to applying Docs-as-Code methodology.
 
 <br><table>
@@ -11,7 +11,7 @@ Dedicated technical writer with a background in English philology and a passion 
     <tbody>
         <tr>
             <td>
->**Technical Writer *Feb 2022 - Present***<br>
+>**Technical Writer** *(Feb 2022 - Present)*<br>
 `IBM@Google`
 <hr>
 
@@ -21,7 +21,7 @@ Dedicated technical writer with a background in English philology and a passion 
 - Liaising with SMEs and project initiators. 
 - Cooperating with QA Specialist.</td>
             <td rowspan=2>
->**B.A. in English Philology *Oct 2013 - Nov 2018***<br>
+>**B.A. in English Philology** *(Oct 2013 - Nov 2018)*<br>
 `Pedagogical University of Cracow`
 <hr>
 
@@ -31,7 +31,7 @@ Dedicated technical writer with a background in English philology and a passion 
         <tr>
             <td><br>
               
->**Clearance Broker *Aug 2018 - Sep 2021***<br>
+>**Clearance Broker** *(Aug 2018 - Sep 2021)*<br>
 `FedEx Express`
 <hr>
 
