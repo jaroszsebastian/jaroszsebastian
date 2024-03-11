@@ -74,18 +74,17 @@ Dedicated technical writer with a background in English philology and a passion 
 <h4 align="center"> PORTFOLIO </h3>
 <hr>
   
-- Curriculum Vitae Project
-- Soy Candle Manual
-- Bookshelf
+- [Soy Candle Manual](https://github.com/jaroszsebastian/soy-candle-manual)
+- [Bookshelf](https://jaroszsebastian.github.io/bookshelf/)
 </td>
 <tr><td>
 <h4 align="center"> CERTIFICATES </h3>
 <hr>
 
-- Learn API Technical Writing: JSON and XML for Writers - 28 Feb, 2023
-- Coding for Writers: Basic Programming - 14 Feb, 2024
-- Writing With Flair: How To Become An Exceptional Writer - 06 Jan, 2024
-- Introduction to DITA at learningDITA.com - 18 Nov, 2023
-- Proofread Like a Pro - 23 Oct, 2023 
-- Professional Business Writing Masterclass - 25 Jul, 2023
+- [Learn API Technical Writing: JSON and XML for Writers](https://github.com/jaroszsebastian/certificates/blob/main/Learn-API-Technical-Writing-JSON-and-XML-for-Writers.jpg) - 28 Feb, 2023
+- [Coding for Writers: Basic Programming](https://github.com/jaroszsebastian/certificates/blob/main/Coding-for-Writers-Basic-Programming.jpg) - 14 Feb, 2024
+- [Writing With Flair: How To Become An Exceptional Writer](https://github.com/jaroszsebastian/certificates/blob/main/Writing-With-Flair-How-To-Be-An-Exceptional-Writer.jpg) - 06 Jan, 2024
+- [Introduction to DITA at learningDITA.com](https://github.com/jaroszsebastian/certificates/blob/main/Introduction-to-DITA.pdf) - 18 Nov, 2023
+- [Proofread Like a Pro](https://github.com/jaroszsebastian/certificates/blob/main/Proofread-Like-a-Pro.jpg) - 23 Oct, 2023 
+- [Professional Business Writing Masterclass](https://github.com/jaroszsebastian/certificates/blob/main/Professional-Business-Writing-Masterclass.jpg) - 25 Jul, 2023
 </td></tr></tbody></table>
