@@ -2,51 +2,58 @@
 Dedicated technical writer with a background in English philology and a passion for clear and concise communication. Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills. Looking forward to applying Docs-as-Code methodology.
 
 <br><table>
-<tr><th><h2 align="center"> PROFESSIONAL EXPPERIENCE </h2></th><th><h2 align="center"> EDUCATION </h2></th></tr>
-<tr><td>
-
->**Technical Writer *02.2022 - Present***
-
+    <thead>
+        <tr>
+            <th> <h3 align="center"> PROFESSIONAL EXPPERIENCE </h3> </th>
+            <th> <h3 align="center"> EDUCATION </h3> </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+>**Technical Writer *Feb 2022 - Present***<br>
 `IBM@Google`
+<hr>
 
-- Maintaining existing documentation for different help centers
-- Writing documentation for new projects 
-- Adjusting the document layout for different customers 
-- Contacting SMEs to gather information
-- Making process flowcharts 
-- Proposing new rules in the internal writer guide
-- Cooperating with QA Specialist
-
->**Clearance Broker *08.2018 - 09-2021***
-
-`FedEx Express`
-- Proofreading official documentation 
-- Writing training manuals 
-- Conducting workshops 
-- Overseeing new-joiners
-- Establishing procedures with the local countries 
-- Preparing reports
-- Calculating finances for packages coming into EU
-
-</td><td>
-
->**B.A. in English Philology *10.2013 - 11.2018***
-
+- Maintaining existing documentation for different clients.
+- ﻿Writing documentation for new projects.
+- Creating process flowcharts.
+- Liaising with SMEs and project initiators. 
+- Cooperating with QA Specialist.</td>
+            <td rowspan=2>
+>**B.A. in English Philology *Oct 2013 - Nov 2018***<br>
 `Pedagogical University of Cracow`
-- Translating and analysing different texts
-- Writing various content
-- Learning phonetics 
-- Learning about knowing the end user
-- Mastering English 
-- Comprehending pragmatics
-- Gaining knowledge of language, literature and culture 
+<hr>
 
-</td></tr> </table>
+- Acquired skills in writing and adapting content <br> for different purposes and audiences.
+- Developed proficiency in translating and analyzing various <br> texts, including literary works, articles, and technical documents.</td>
+        </tr>
+        <tr>
+            <td><br>
+              
+>**Clearance Broker *Aug 2018 - Sep 2021***<br>
+`FedEx Express`
+<hr>
+
+- Cleared packages coming to IE and BE.
+- Cooperated with local teams.
+- Wrote process manuals for the new joiners.
+- Conducted workshops.
+- Prepared official reports.</td>
+        </tr>
+    </tbody>
+</table>
 
 <table>
-<tr><th><h2 align="center"> SKILLS </h2></th><th><h2 align="center"> ACHIEVEMENTS </h2></th></tr>
-<tr><td>
+  <thead>
+<tr>
+  <th>
+    <h3 align="center"> SKILLS </h3></th>
+  <th><h3 align="center"> ACHIEVEMENTS </h3></th></tr></thead>
 
+  <tbody>
+    <tr>
+      <td rowspan=2>
 
 |Skill|LEVEL|
 |:---:|:---:|
@@ -62,11 +69,23 @@ Dedicated technical writer with a background in English philology and a passion 
 |Visual Studio Code|🟢⚫⚫⚫⚫|
 |XSLT|🟢⚫⚫⚫⚫|
 
-</td><td>
-<h3 align="center"> PORTFOLIO </h3>
+</td>
+<td>
+<h4 align="center"> PORTFOLIO </h3>
+<hr>
+  
+- Curriculum Vitae Project
+- Soy Candle Manual
+- Bookshelf
+</td>
+<tr><td>
+<h4 align="center"> CERTIFICATES </h3>
+<hr>
 
-Curriculum Vitae Project
-Soy Candle Manual
-Bookshelf
-
-</td></tr> </table>
+- Learn API Technical Writing: JSON and XML for Writers - 28 Feb, 2023
+- Coding for Writers: Basic Programming - 14 Feb, 2024
+- Writing With Flair: How To Become An Exceptional Writer - 06 Jan, 2024
+- Introduction to DITA at learningDITA.com - 18 Nov, 2023
+- Proofread Like a Pro - 23 Oct, 2023 
+- Professional Business Writing Masterclass - 25 Jul, 2023
+</td></tr></tbody></table>
