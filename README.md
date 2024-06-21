@@ -78,9 +78,7 @@ Dedicated technical writer with a background in English philology and a passion 
 - [Soy Candle Manual](https://github.com/jaroszsebastian/soy-candle-manual)
 - [Bookshelf Page](https://jaroszsebastian.github.io/bookshelf/)
 - [Concept Explanation: Final Girl](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Concept%20Explanation:%20Final%20Girl.pdf)
-- [Concept Explanation: Final Girl](https://docs.google.com/document/d/1nnZkSX82blL21cVT6O_S0Wg9BfAvqbD7Bj4LVkg5N04/edit#heading=h.okdfxcvq0k41)
 - [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
-- [Instruction Manual: Notion Yoga Practice](https://docs.google.com/document/d/1Eow9q0jd2OdFp3se6l42H1dvXVOgpAbt8lAi1yM6k5g/edit#heading=h.7qaxv8pjibje)
 </td>
 <tr><td>
 <h4 align="center"> CERTIFICATES </h4>
