@@ -55,19 +55,21 @@ Dedicated technical writer with a background in English philology and a passion 
     <tr>
       <td rowspan=2>
 
-|Skill|LEVEL|
+|SKILL|LEVEL|
 |:---:|:---:|
-|Markdown|🟢🟢🟢🟢🟢|
-|Lucidchart|🟢🟢🟢🟢⚫|
-|Google Workspace|🟢🟢🟢🟢⚫|
-|Salesforce|🟢🟢🟢⚫⚫|
-|HTML|🟢🟢🟢⚫⚫|
-|GitHub|🟢🟢🟢⚫⚫|
-|git|🟢🟢⚫⚫⚫|
-|CSS|🟢🟢⚫⚫⚫|
-|draw.io|🟢🟢⚫⚫⚫|
-|Visual Studio Code|🟢⚫⚫⚫⚫|
-|XSLT|🟢⚫⚫⚫⚫|
+|Internal Google CCMS|🔴🔴🔴🔴🔴|
+|Markdown|🔴🔴🔴🔴🔴|
+|GitHub|🔴🔴🔴🔴🔴|
+|git|🔴🔴🔴🔴⚫|
+|Visual Studio Code|🔴🔴🔴🔴⚫|
+|Google Workspace|🔴🔴🔴🔴⚫|
+|Lucidchart|🔴🔴🔴🔴⚫|
+|Salesforce|🔴🔴🔴⚫⚫|
+|HTML|🔴🔴🔴⚫⚫|
+|CSS|🔴🔴⚫⚫⚫|
+|draw.io|🔴🔴🔴⚫⚫|
+|XSLT|🔴🔴⚫⚫⚫⚫|
+|SVG|🔴🔴⚫⚫⚫⚫
 
 </td>
 <td>
