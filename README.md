@@ -43,7 +43,7 @@ Dedicated technical writer with a background in English philology and a passion 
 >**Clearance Broker** *(Aug 2018 - Sep 2021)*<br>
 `FedEx Express`
 - Cleared packages arriving in IE and BE.
-- Liaised with SMEs and managers. 
+- Liaised with SMEs and managers to establish internal procedures.
 - Wrote process manuals for new joiners.
 - Conducted workshops.
 - Prepared official reports.</td>
