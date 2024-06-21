@@ -68,7 +68,7 @@ Dedicated technical writer with a background in English philology and a passion 
 >**B.A. in English Philology** *(Oct 2013 - Nov 2018)*<br>
 `Pedagogical University of Cracow`
 - Acquired skills in writing and adapting content <br> for different purposes and audiences.
-- Developed proficiency in translating and analyzing various <br> texts, including literary works, articles, and technical documents.
+- Developed proficiency in translating and analyzing various texts, including literary works, articles, and technical documents.
 - Thesis: Swearing Culture on the Basis of Popular Songs.
 <br>
 </td>
