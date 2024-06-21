@@ -17,7 +17,7 @@ Dedicated technical writer with a background in English philology and a passion 
 - ﻿Creating documentation for new projects.
 - Creating process flowcharts.
 - Uploading documents to the Internal Google CCMS.
-- Liaising with SMEs and project initiators to translate tacit knowledge into explicit documentation.
+- Translating tacit knowledge into explicit documentation.
 - Conducting peer reviews.</td>
             <td rowspan=2>
 
