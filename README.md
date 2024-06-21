@@ -74,11 +74,12 @@ Dedicated technical writer with a background in English philology and a passion 
 </td>
 <td>
 <h4 align="center"> PORTFOLIO </h4> 
-    
+
 - [Soy Candle Manual](https://github.com/jaroszsebastian/soy-candle-manual)
 - [Bookshelf Page](https://jaroszsebastian.github.io/bookshelf/)
 - [Concept Explanation: Final Girl](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Concept%20Explanation:%20Final%20Girl.pdf)
 - [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
+<h4> </h4>
 </td>
 <tr><td>
 <h4 align="center"> CERTIFICATES </h4>
@@ -89,4 +90,5 @@ Dedicated technical writer with a background in English philology and a passion 
 - [Introduction to DITA at learningDITA.com](https://github.com/jaroszsebastian/certificates/blob/main/Introduction-to-DITA.pdf) - 18 Nov, 2023
 - [Proofread Like a Pro](https://github.com/jaroszsebastian/certificates/blob/main/Proofread-Like-a-Pro.jpg) - 23 Oct, 2023 
 - [Professional Business Writing Masterclass](https://github.com/jaroszsebastian/certificates/blob/main/Professional-Business-Writing-Masterclass.jpg) - 25 Jul, 2023
+<h4> </h4>
 </td></tr></tbody></table>
