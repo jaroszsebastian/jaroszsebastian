@@ -29,6 +29,7 @@ Dedicated technical writer with a background in English philology and a passion 
 |git|🔴🔴🔴🔴⚫|
 |YAML|🔴🔴🔴🔴⚫|
 |JSON|🔴🔴🔴🔴⚫|
+|XML|🔴🔴🔴🔴⚫|
 |Visual Studio Code|🔴🔴🔴🔴⚫|
 |Google Workspace|🔴🔴🔴🔴⚫|
 |Lucidchart|🔴🔴🔴🔴⚫|
