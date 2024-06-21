@@ -1,5 +1,5 @@
 <h1 align="center"> PROFESSIONAL SUMMARY </h1>
-Dedicated technical writer with a background in English philology and a passion for clear and concise communication. Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills. Looking forward to applying Docs-as-Code methodology.
+Dedicated technical writer with a background in English philology and a passion for clear and concise communication. Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills.
 
 <br><table>
     <thead>
@@ -24,7 +24,7 @@ Dedicated technical writer with a background in English philology and a passion 
             <td rowspan=2>
 >**B.A. in English Philology** *(Oct 2013 - Nov 2018)*<br>
 `Pedagogical University of Cracow`
-<hr>
+<hr style="border: 0.5px solid #999999;">
 
 - Acquired skills in writing and adapting content <br> for different purposes and audiences.
 - Developed proficiency in translating and analyzing various <br> texts, including literary works, articles, and technical documents.</td>
