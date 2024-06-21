@@ -24,7 +24,7 @@ Dedicated technical writer with a background in English philology and a passion 
             <td rowspan=2>
 >**B.A. in English Philology** *(Oct 2013 - Nov 2018)*<br>
 `Pedagogical University of Cracow`
-<hr style="border: 0.5px solid #999999;">
+<hr style="height: 1px;">
 
 - Acquired skills in writing and adapting content <br> for different purposes and audiences.
 - Developed proficiency in translating and analyzing various <br> texts, including literary works, articles, and technical documents.</td>
