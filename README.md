@@ -15,11 +15,12 @@ Dedicated technical writer with a background in English philology and a passion 
 `IBM@Google`
 <hr>
 
-- Maintaining existing documentation for different clients.
-- ﻿Writing documentation for new projects.
+- Maintaining documentation for existing projects.
+- ﻿Creating documentation for new projects.
 - Creating process flowcharts.
-- Liaising with SMEs and project initiators. 
-- Cooperating with QA Specialist.</td>
+- Uploading documents to the Internal Google CCMS.
+- Liaising with SMEs and project initiators.
+- Conducting peer reviews.</td>
             <td rowspan=2>
 >**B.A. in English Philology** *(Oct 2013 - Nov 2018)*<br>
 `Pedagogical University of Cracow`
@@ -35,9 +36,9 @@ Dedicated technical writer with a background in English philology and a passion 
 `FedEx Express`
 <hr>
 
-- Cleared packages coming to IE and BE.
-- Cooperated with local teams.
-- Wrote process manuals for the new joiners.
+- Cleared packages arriving in IE and BE.
+- Liaised with SMEs and managers. 
+- Wrote process manuals for new joiners.
 - Conducted workshops.
 - Prepared official reports.</td>
         </tr>
