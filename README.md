@@ -90,5 +90,5 @@ Dedicated technical writer with a background in English philology and a passion 
 - [Introduction to DITA at learningDITA.com](https://github.com/jaroszsebastian/certificates/blob/main/Introduction-to-DITA.pdf) - 18 Nov, 2023
 - [Proofread Like a Pro](https://github.com/jaroszsebastian/certificates/blob/main/Proofread-Like-a-Pro.jpg) - 23 Oct, 2023 
 - [Professional Business Writing Masterclass](https://github.com/jaroszsebastian/certificates/blob/main/Professional-Business-Writing-Masterclass.jpg) - 25 Jul, 2023
-<h4> </h4>
+
 </td></tr></tbody></table>
