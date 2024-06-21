@@ -67,8 +67,8 @@ Dedicated technical writer with a background in English philology and a passion 
 |Salesforce|🔴🔴🔴⚫⚫|
 |HTML|🔴🔴🔴⚫⚫|
 |CSS|🔴🔴⚫⚫⚫|
-|XSLT| 🔴🔴⚫⚫⚫⚫|
-|SVG| 🔴🔴⚫⚫⚫⚫|
+|XSLT|🔴🔴⚫⚫⚫|
+|SVG|🔴🔴⚫⚫⚫|
 
 </td>
 <td>
