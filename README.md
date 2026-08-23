@@ -1,5 +1,7 @@
 <h1 align="center"> PROFESSIONAL SUMMARY </h1>
-Dedicated technical writer with a background in English philology and a passion for clear and concise communication. Committed to continuous learning and upskilling, actively broadening perspectives and refining technical writing skills.
+Senior Technical Writer with over 4 years of experience in technical documentation, including nearly 2 years focused on API
+documentation in the banking/fintech sector. Works closely with developers to turn technical complexity into clear, structured
+content, and contributes to documentation strategy, terminology standards, and delivery planning.
 
 <br><table>
     <thead>
