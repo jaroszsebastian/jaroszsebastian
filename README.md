@@ -1,5 +1,5 @@
 <h1 align="center"> PROFESSIONAL SUMMARY </h1>
-Senior Technical Writer with over 4 years of experience in technical documentation, including nearly 2 years focused on API
+Senior Technical Writer with over 4 years of experience in technical documentation, including 2 years focused on API
 documentation in the banking/fintech sector. Works closely with developers to turn technical complexity into clear, structured
 content, and contributes to documentation strategy, terminology standards, and delivery planning.
 
