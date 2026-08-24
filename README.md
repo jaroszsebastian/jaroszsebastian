@@ -43,8 +43,8 @@ Cross-functional collaboration · Stakeholder communication · Attention to deta
 - Practiced translation and analysis of literary, journalistic, and technical texts
 
 # Projects
-- [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
 - [Soy Candle Manual](https://github.com/jaroszsebastian/soy-candle-manual)
+- [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
 - [Bookshelf Page](https://jaroszsebastian.github.io/bookshelf/)
 - [Concept Explanation: Final Girl](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Concept%20Explanation:%20Final%20Girl.pdf)
 
