@@ -45,6 +45,7 @@ Cross-functional collaboration · Stakeholder communication · Attention to deta
 # Projects
 - [Soy Candle Manual](https://github.com/jaroszsebastian/soy-candle-manual)
 - [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
+  * [Notion Database](https://wobbly-gong-48a.notion.site/Movement-39b280afcd0a8060acbbcb0d250c8dd1)
 - [Concept Explanation: Final Girl](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Concept%20Explanation:%20Final%20Girl.pdf)
 - [Bookshelf Page](https://jaroszsebastian.github.io/bookshelf/)
 
