@@ -1,91 +1,54 @@
-<h1 align="center"> PROFESSIONAL SUMMARY </h1>
+# Professional summary
 Senior Technical Writer with over 4 years of experience in technical documentation, including 2 years focused on API
 documentation in the banking/fintech sector. Works closely with developers to turn technical complexity into clear, structured
 content, and contributes to documentation strategy, terminology standards, and delivery planning.
 
-<br><table>
-    <thead>
-        <tr>
-            <th> <h3 align="center"> EXPERIENCE </h3> </th>
-            <th> <h3 align="center"> SKILLS </h3> </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
->**Technical Writer** *(Feb 2022 - Present)*<br>
-`IBM@Google`
-- Maintaining documentation for existing projects.
-- ﻿Creating documentation for new projects.
-- Creating process flowcharts.
-- Uploading documents to the Internal Google CCMS.
-- Translating tacit knowledge into explicit documentation.
-- Conducting peer reviews.</td>
-            <td rowspan=2>
+# Experience
+### Senior Technical Writer — Lionbridge
+*Dec 2025 – Present*
+- Contribute to documentation strategy, structure, estimates, and delivery schedules
+- Coordinate reviews and planning for the team's Data Dictionary contributions, standardizing API terminology
+- Resolve complex documentation and API-structure issues under tight deadlines
+- Communicate delivery timelines directly with the customer
+- Produce and edit YAML-based API content using specialized documentation tools
+### Technical Writer — Lionbridge
+*Sep 2024 – Nov 2025*
+- Delivered high-volume API documentation for a banking client, focused on YAML specs
+- Collaborated daily with developers on API functionality and structure
+- Refined technical specifications for clarity through deep-dive API analysis
+- Maintained documentation consistency and accuracy across international development teams
+### Technical Writer — IBM (contracted to Google)
+*Feb 2022 – Aug 2024*
+- Maintained documentation across multiple projects
+- Built process flowcharts and translated tacit knowledge into explicit documentation
+- Uploaded and managed documentation in CCMS
+- Conducted peer reviews
+### Clearance Broker — FedEx Express
+*Aug 2018 – Sep 2021*
+- Wrote process manuals for new joiners
+- Liaised with SMEs to establish internal procedures
 
-|SKILL|LEVEL|
-|:---:|:---:|
-|Internal Google CCMS|🔴🔴🔴🔴🔴|
-|Markdown|🔴🔴🔴🔴🔴|
-|GitHub|🔴🔴🔴🔴🔴|
-|git|🔴🔴🔴🔴⚫|
-|YAML|🔴🔴🔴🔴⚫|
-|JSON|🔴🔴🔴🔴⚫|
-|XML|🔴🔴🔴🔴⚫|
-|Visual Studio Code|🔴🔴🔴🔴⚫|
-|Google Workspace|🔴🔴🔴🔴⚫|
-|Lucidchart|🔴🔴🔴🔴⚫|
-|Salesforce|🔴🔴🔴⚫⚫|
-|HTML|🔴🔴🔴⚫⚫|
-|CSS|🔴🔴⚫⚫⚫|
-|XSLT|🔴🔴⚫⚫⚫|
-|SVG|🔴🔴⚫⚫⚫|
-</td>
-        </tr>
-        <tr>
-            <td>
-              
->**Clearance Broker** *(Aug 2018 - Sep 2021)*<br>
-`FedEx Express`
-- Cleared packages arriving in IE and BE.
-- Liaised with SMEs and managers to establish internal procedures.
-- Wrote process manuals for new joiners.
-- Conducted workshops.
-- Prepared official reports.</td>
-        </tr>
-    </tbody>
-</table>
+# Skills
+### Tools & Formats
+CCMS · Markdown · YAML · JSON · Claude · XML · Git · GitHub · HTML · CSS · Visual Studio Code · Lucidchart · Salesforce
+### Documentation Competencies
+API documentation · AI-Assisted Technical Authoring · Style guides · Terminology management · Technical specifications
+### Soft Skills
+Cross-functional collaboration · Stakeholder communication · Attention to detail · Adaptability
 
-<table>
-  <thead>
-<tr>
-  <th>
-    <h3 align="center"> EDUCATION </h3></th>
-  <th><h3 align="center"> ACHIEVEMENTS </h3></th></tr></thead>
+# Education
+### B.A. in English Philology — Pedagogical University of Cracow
+*Oct 2013 – Nov 2018*
+- Developed skills in writing and adapting content for different audiences and purposes
+- Practiced translation and analysis of literary, journalistic, and technical texts
 
-  <tbody>
-    <tr>
-      <td rowspan=2>
-
->**B.A. in English Philology** *(Oct 2013 - Nov 2018)*<br>
-`Pedagogical University of Cracow`
-- Acquired skills in writing and adapting content <br> for different purposes and audiences.
-- Developed proficiency in translating and analyzing <br> various texts, including literary works, articles, and technical documents.
-- Thesis: Swearing Culture on the Basis of Popular Songs.
-<br>
-</td>
-<td>
-<h4 align="center"> PORTFOLIO </h4> 
-
+# Projects
+- [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
 - [Soy Candle Manual](https://github.com/jaroszsebastian/soy-candle-manual)
 - [Bookshelf Page](https://jaroszsebastian.github.io/bookshelf/)
 - [Concept Explanation: Final Girl](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Concept%20Explanation:%20Final%20Girl.pdf)
-- [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
-<h4> </h4>
-</td>
-<tr><td>
-<h4 align="center"> CERTIFICATES </h4>
-    
+
+# Certificates
 - [Learn API Technical Writing: JSON and XML for Writers](https://github.com/jaroszsebastian/certificates/blob/main/Learn-API-Technical-Writing-JSON-and-XML-for-Writers.jpg) - 28 Feb, 2024
 - [Coding for Writers: Basic Programming](https://github.com/jaroszsebastian/certificates/blob/main/Coding-for-Writers-Basic-Programming.jpg) - 14 Feb, 2024
 - [Writing With Flair: How To Become An Exceptional Writer](https://github.com/jaroszsebastian/certificates/blob/main/Writing-With-Flair-How-To-Be-An-Exceptional-Writer.jpg) - 06 Jan, 2024
@@ -93,4 +56,5 @@ content, and contributes to documentation strategy, terminology standards, and d
 - [Proofread Like a Pro](https://github.com/jaroszsebastian/certificates/blob/main/Proofread-Like-a-Pro.jpg) - 23 Oct, 2023 
 - [Professional Business Writing Masterclass](https://github.com/jaroszsebastian/certificates/blob/main/Professional-Business-Writing-Masterclass.jpg) - 25 Jul, 2023
 
-</td></tr></tbody></table>
+# Languages
+Polish - Native · English - C1
