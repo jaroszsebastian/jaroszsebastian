@@ -1,7 +1,5 @@
 # Professional summary
-Senior Technical Writer with over 4 years of experience in technical documentation, including 2 years focused on API
-documentation in the banking/fintech sector. Works closely with developers to turn technical complexity into clear, structured
-content, and contributes to documentation strategy, terminology standards, and delivery planning.
+Senior Technical Writer with nearly 5 years of experience in technical documentation, including over 2 years specializing in REST API reference content and OpenAPI/YAML specifications in the banking sector. Experienced in taking full ownership of centralized Data Dictionaries, managing delivery deadlines with requesters, and delivering financial DTP and developer documentation.
 
 # Experience
 ### Senior Technical Writer — Lionbridge
