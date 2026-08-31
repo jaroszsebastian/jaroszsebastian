@@ -4,35 +4,37 @@ Senior Technical Writer with nearly 5 years of experience in technical documenta
 # Experience
 ### Senior Technical Writer — Lionbridge
 *Dec 2025 – Present*
-- Contribute to documentation strategy, structure, estimates, and delivery schedules
-- Coordinate reviews and planning for the team's Data Dictionary contributions, standardizing API terminology
-- Resolve complex documentation and API-structure issues under tight deadlines
-- Communicate delivery timelines directly with the customer
-- Produce and edit YAML-based API content using specialized documentation tools
+- Reviewed and refined ~1,000 developer-submitted OpenAPI/YAML specification files in Visual Studio Code, ensuring strict formatting compliance and technical accuracy across banking developer portals.
+- Standardized and published ~1,500 terminology entries into a centralized glossary repository, driving content reuse and cross-team naming consistency. 
+- Took full ownership of the team’s Data Dictionary, managing deadlines and serving as the primary point of contact for client communications.
+- Troubleshot and resolved complex API structural and formatting issues under tight delivery schedules.
 ### Technical Writer — Lionbridge
 *Sep 2024 – Nov 2025*
-- Delivered high-volume API documentation for a banking client, focused on YAML specs
-- Collaborated daily with developers on API functionality and structure
-- Refined technical specifications for clarity through deep-dive API analysis
-- Maintained documentation consistency and accuracy across international development teams
+- Produced end-to-end API reference documentation for a major global bank, leveraging OpenAPI/Swagger standards to deliver clear, structured developer content. 
+- Collaborated daily with software engineers to analyze API functionality, clarify endpoint behavior, and refine specifications. 
+- Maintained documentation consistency and technical accuracy across distributed, international development squads.
 ### Technical Writer — IBM (contracted to Google)
 *Feb 2022 – Aug 2024*
-- Maintained documentation across multiple projects
-- Built process flowcharts and translated tacit knowledge into explicit documentation
-- Uploaded and managed documentation in CCMS
-- Conducted peer reviews
+- Managed financial DTP deliverables, maintaining high documentation standards across multiple concurrent project streams. 
+- Translated tacit domain knowledge into explicit procedural documentation, building detailed visual flowcharts to capture complex processes. 
+- Uploaded and managed documentation within a proprietary Component Content Management System (CCMS).
+- Executed peer reviews to enforce adherence to style guides, structural clarity, and technical precision.
 ### Clearance Broker — FedEx Express
 *Aug 2018 – Sep 2021*
-- Wrote process manuals for new joiners
-- Liaised with SMEs to establish internal procedures
+- Wrote internal process manuals and onboarding guides for new team members. 
+- Liaised with subject matter experts (SMEs) to formalize operational procedures.
 
 # Skills
-### Tools & Formats
-CCMS · Markdown · YAML · JSON · Claude · XML · Git · GitHub · HTML · CSS · Visual Studio Code · Lucidchart · Salesforce
-### Documentation Competencies
-API documentation · AI-Assisted Technical Authoring · Style guides · Terminology management · Technical specifications
-### Soft Skills
-Cross-functional collaboration · Stakeholder communication · Attention to detail · Adaptability
+### API & Documentation Standards
+OpenAPI / Swagger · REST APIs · YAML · Markdown · JSON · XML · DITA
+### AI & Content Authoring
+AI-Assisted Technical Authoring · Prompt Engineering · Generative AI · LLMs
+### Developer Tools & Version Control
+Visual Studio Code · GitHub · Git · Docs-as-Code Workflows · CCMS
+### Collaboration Platforms
+Azure DevOps · Salesforce ·Notion · Lucidchart
+### Core Competencies
+Technical Specifications · Information & Data Architecture · Data Dictionary & Terminology Governance · Style Guides
 
 # Education
 ### B.A. in English Philology — Pedagogical University of Cracow
@@ -43,9 +45,9 @@ Cross-functional collaboration · Stakeholder communication · Attention to deta
 # Projects
 - [Soy Candle Manual](https://github.com/jaroszsebastian/soy-candle-manual)
 - [Instruction Manual: Notion Yoga Practice](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Instruction%20Manual%3A%20Notion%20Yoga%20Practice.pdf)
-  * [Notion Database](https://wobbly-gong-48a.notion.site/Movement-39b280afcd0a8060acbbcb0d250c8dd1)
+  * [Notion Movement Workspace](https://wobbly-gong-48a.notion.site/Movement-39b280afcd0a8060acbbcb0d250c8dd1)
 - [Concept Explanation: Final Girl](https://github.com/jaroszsebastian/jaroszsebastian/blob/main/Concept%20Explanation:%20Final%20Girl.pdf)
-- [Bookshelf Page](https://jaroszsebastian.github.io/bookshelf/)
+- [Bookshelf](https://jaroszsebastian.github.io/bookshelf/)
 
 # Certificates
 - [Learn API Technical Writing: JSON and XML for Writers](https://github.com/jaroszsebastian/certificates/blob/main/Learn-API-Technical-Writing-JSON-and-XML-for-Writers.jpg) - 28 Feb, 2024
