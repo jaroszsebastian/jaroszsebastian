@@ -3,7 +3,7 @@ Senior Technical Writer with nearly 5 years of experience in technical documenta
 
 # Experience
 ### Senior Technical Writer — Lionbridge
-*Dec 2025 – Present*
+*Dec 2025 – Sep 2026*
 - Reviewed and refined ~1,000 developer-submitted OpenAPI/YAML specification files in Visual Studio Code, ensuring strict formatting compliance and technical accuracy across banking developer portals.
 - Standardized and published ~1,500 terminology entries into a centralized glossary repository, driving content reuse and cross-team naming consistency. 
 - Took full ownership of the team’s Data Dictionary, managing deadlines and serving as the primary point of contact for client communications.
